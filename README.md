@@ -5,4 +5,4 @@ peer review : John Magpantay
 notes : Data validation for both int and string! good job! very well written codes, they are clean. Codes look simple but its doing whats its suppose to do. 
 Good job 
 
-https://localhost:7160/ReverseIt/Reverse
+https://localhost:7160/ReverseIt/Reverse/{input}
